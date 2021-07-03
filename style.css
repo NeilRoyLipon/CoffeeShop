@@ -11,7 +11,7 @@ header{
     background-image: linear-gradient(
         rgba(97, 47, 18, .692),
         rgba(97, 47, 18, .692)
-    ),url('/Images/coffe.jpg');
+    ),url('../Images/coffe.jpg');
 
     background-size: cover;
     background-position: center;
